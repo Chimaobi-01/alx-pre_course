@@ -1,2 +1,1 @@
-my first readme
-New update from GitHub.com
+my first Readme message
